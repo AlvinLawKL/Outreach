@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myWorld()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ EndangeredAnimalCaught()
+comment3.params=
+comment3.target=void\ addScore()
+comment4.params=
+comment4.target=void\ subtractScore()
+comment5.params=
+comment5.target=int\ getValue()
+numComments=6
